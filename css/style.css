@@ -1,5 +1,5 @@
 body{
-    background-image: url("../img/img3.jpg");
+    background-image: url("../img/img13.jpg");
     font-size: 20px;
 }
 .imagem{
@@ -22,22 +22,29 @@ a{
 }
 p{
     text-align: justify;
-    margin-top: 20px;
+    font-size: 45px;
+    margin-right: 300px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+    margin-top: 550px;
 }
 
 .foto{
     display: flex;
 }
 button{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     width: 300px;
     height: 30px;
-    border: 3px solid rgb(106, 149, 160);
+    border: 3px solid rgb(130, 255, 218);
     background-color: rgb(173, 202, 230);
     border-radius: 70px;
-    margin-left: 140px;
-    display: flex;
+    margin-left: 50px;
+    margin-top: 20px;
     text-align: center;
     align-items: center;
 
 }
-
+.inicio{
+    margin-top: 50px;
+}
