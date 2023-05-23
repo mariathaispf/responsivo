@@ -9,9 +9,9 @@ body{
 img{
     
 
-    width: 1800px;
-    height: 800px;
-    border: 20px solid rgb(92, 89, 89);
+    width: 710px;
+    height: 450px;
+    border: 15px solid rgb(92, 89, 89);
     border-radius: 4px;
 
 }
@@ -29,14 +29,14 @@ p{
     display: flex;
 }
 button{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     width: 300px;
     height: 30px;
-    border: 3px solid rgb(96, 98, 99);
-    background-color: rgb(141, 148, 155);
+    border: 3px solid rgb(66, 70, 69);
+    background-color: rgb(138, 143, 148);
     border-radius: 70px;
-    margin-left: 140px;
-    display: flex;
+    margin-left: 50px;
+    margin-top: 20px;
     text-align: center;
     align-items: center;
-
 }
