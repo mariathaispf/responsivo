@@ -5,7 +5,13 @@ body{
 .imagem{
     margin: 0px 0px 0px 0px; 
 }
-
+.foto1{
+    width: 800px;
+    height: 500px;
+    border: 10px solid rgb(92, 89, 89);
+    border-radius: 20px;
+    margin: 0px 0px 50px 100px; 
+}
 img{
     
 
